@@ -17,7 +17,7 @@ class Home extends MY_Controller {
         // 2. when you pass JSON , then the response will be json object of $this->data.  This can be used for JSON Responses to AJAX Calls.
         // 3. By default full page will be rendered
         
-		$this->_render('pages/home',$renderData);
+		$this->_render('pages/index',$renderData);
 	}
 	
 }
