@@ -19,7 +19,7 @@ include_once APPPATH . "libraries/google-api-php-client-master/src/Google/Servic
 // Store values in variables from project created in Google Developer Console
 $client_id = '134107157316-c835jl34i2ssl2tpjqugvhsg39v70uf6.apps.googleusercontent.com';
 $client_secret = 'Lm2SnDQy4AKcGyGajSDDr8k-';
-$redirect_uri = 'https://www.example.com/oauth2callback';
+$redirect_uri = 'http://localhost:8082/cummins/index.php/user';
 $simple_api_key = 'AIzaSyCgjR5xuXDY62vDYWzym7VLWSBP7c1uyfo';
 
 // Create Client Request to access Google API
