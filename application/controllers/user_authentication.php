@@ -56,7 +56,7 @@ $authUrl = $client->createAuthUrl();
 $data['authUrl'] = $authUrl;
 }
 // Load view and send values stored in $data
-$this->load->view('pages/google_authentication', $data);
+$this->load->view('pages/login', $data);
 }
 
 // Unset session and logout
