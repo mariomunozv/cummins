@@ -65,6 +65,7 @@ class MY_Controller extends CI_Controller{
 		$toHeader["basejs"] = $this->load->view("template/basejs",$this->data,true);
 		
 		$toBody["header"] = $this->load->view("template/header",$toHeader,true);
+		$toBody["sidebar"] = $this->load->view("template/sidebar",$toHeader,true);
 		$toBody["footer"] = $this->load->view("template/footer",'',true);
 		
 		$toTpl["body"] = $this->load->view("template/".$this->template,$toBody,true);
