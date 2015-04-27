@@ -1,11 +1,5 @@
 body { background-color: #fff; color: #333; }
 
-body, p, ol, ul, td {
-  font-family: verdana, arial, helvetica, sans-serif;
-  font-size:   13px;
-  line-height: 18px;
-}
-
 pre {
   background-color: #eee;
   padding: 10px;
@@ -7942,6 +7936,12 @@ body {
 }
 .nav.navbar-nav li:hover{
   background-color: #AD2020 !important;
+}
+.breadcrumb a:visited{
+  color:#428bca;
+}
+a:visited{
+  color:#428bca;
 }
 
 
