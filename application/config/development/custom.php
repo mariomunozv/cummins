@@ -1,9 +1,9 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-$config['site_title'] = 'title';
-$config['site_description'] = 'description';
-$config['site_author'] = 'arny';
-$config['site_keywords'] = 'key1, key2';
+$config['site_title'] = 'Cummins';
+$config['site_description'] = '';
+$config['site_author'] = 'El vicho y el mario';
+$config['site_keywords'] = '';
 
 
 /* End of file custom.php */
