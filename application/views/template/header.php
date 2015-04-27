@@ -5,7 +5,8 @@
 			<div class="navbar-header">
 				
 				<a class="navbar-brand" href="/">
-					<img src="<?php echo base_url(); ?>resources/img/cummins-logo.png">
+					<!--<img src="<?php echo base_url(); ?>resources/img/cummins-logo.png">-->
+					<img src="http://www.cummins.cl/motores-diesel/wp-content/themes/cumminsv2m/images/cummins-logo.png">
 					
 				</a>
 				<a id="menu-toggle" href="#"><span class="glyphicon glyphicon-th-list"></span></a>
