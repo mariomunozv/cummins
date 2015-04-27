@@ -10,7 +10,7 @@
 		</div>
 		<div class="title">
 			<h4>Azikalao</h4>
-			<small>Ultima vez 01-12-2014</small>
+			<small>vicho.sela@come.cl</small>
 		</div>
 	</div>
 

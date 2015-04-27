@@ -1,6 +1,10 @@
-::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
-::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::-moz-selection { background: #ccc; color: #fff; text-shadow: none; }
+::selection { background: #ccc; color: #fff; text-shadow: none; }
 
 body{
 	padding-top:40px;
+}
+a:hover{
+	background-color: inherit;
+	text-decoration: none;
 }
