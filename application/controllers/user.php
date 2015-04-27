@@ -3,7 +3,7 @@
 
 session_start();
 
-class User_Authentication extends MY_Controller {
+class User extends MY_Controller {
 
 public function __construct() {
 parent::__construct();
